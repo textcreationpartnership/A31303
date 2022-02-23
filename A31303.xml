@@ -1,0 +1,768 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Catalogue of the names of those holy martyrs who were burned in Queen Maries reign as also the particular places where, with the years and months and several of the days, when they suffered.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31303</idno>
+            <idno type="STC">Wing C1404</idno>
+            <idno type="STC">ESTC R34795</idno>
+            <idno type="EEBO-CITATION">14715156</idno>
+            <idno type="OCLC">ocm 14715156</idno>
+            <idno type="VID">102723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1566:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Catalogue of the names of those holy martyrs who were burned in Queen Maries reign as also the particular places where, with the years and months and several of the days, when they suffered.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>MDCLXXIX [1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Great Britain --  History --  Mary I, 1553-1558.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_martyrs">
+            <pb facs="tcp:102723:1" rendition="simple:additions"/>
+            <head>A CATALOGUE of the NAMES of thoſe HOLY MARTYRS WHO WERE Burned in Queen MARIES Reign.</head>
+            <head type="sub">AS ALSO, The Particular Places where, with the Years and Months, and ſeveral of the Days, when they Suffered.</head>
+            <p>I Am ſorry we have now the ſad Occaſion to refreſh our Memories with the inhumane inſtances of the Cruelty of thoſe Popiſh times; for as the Incomparable <hi>Virgil</hi> ſays (though upon another Subject), <hi>Quis talia fando temperet à Lachrymis?</hi> but yet, ſince we had e'en like (our Royal Soveraign, and the whole Proteſtant Nation, if it had not been for the moſt gracious timeing-Providence of God) to have been made a haſty Sacrifice to the rapacious, devouring luſts of thoſe bloody men of <hi>Rome;</hi> and ſtill know not into what hands we may fall, or how ſoon, if the infinite mercy of Heaven, the pious zeal of the King, and the loyal unity, ſervent pray<g ref="char:EOLhyphen"/>ers, and diligent circumſpection of all true <hi>Engliſhmen,</hi> do not defeat their damnable and helliſh Machinations, and prevent their horrid Treacheries. What can be more ſeaſonable at ſuch a time as this, than to preſent you with a ſhort and true account of thoſe holy and bleſſed Martyrs, who ſuffered in the days of Queen <hi>Mary,</hi> only for the Teſtimony of a good Conſcience, and becauſe they would not come over to their Anti-ſcriptural, and Idolatrous ways of Worſhip. And if ſo many lives were then taken away, and made a prey to the rage of their Religious pretences, Lord! what rivers of blood would now run down our ſtreets! and how many thouſands of Souls ſhould endure the utmoſt torments of their inſatiable Butcheries, ſhould we ever have again a Popiſh Prince to rule over us! nor let any of our Dignified Clergy think to eſcape, for they may ſee here, if they pleaſe, they neither ſpared Biſhop nor Archbiſhop that was not a Votary to the See of <hi>Rome;</hi> and I hope, whatever the Calumnies of ſome may be, we have none but who do ſcorn to bow their knee to Antichriſt.</p>
+            <div type="month">
+               <head>February, <hi>Anno</hi> 1555.</head>
+               <list>
+                  <item>John Rogers <hi>at</hi> Coventry, <hi>the</hi> 4</item>
+                  <item>Lawrence Sanders <hi>at</hi> Coventry 8</item>
+                  <item>
+                     <hi>Biſhop</hi> Hooper <hi>at</hi> Glouceſter 9</item>
+                  <item>
+                     <hi>Dr.</hi> Taylor <hi>at</hi> Hadley 9</item>
+                  <item>Thomas Tomkins <hi>at</hi> Smithfield 16</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>March, 1555.</head>
+               <list>
+                  <item>William Hunter <hi>at</hi> Brentwood 16</item>
+                  <item>
+                     <hi>Mr.</hi> Cauſton <hi>at the ſame time.</hi>
+                  </item>
+                  <item>William Pigott <hi>at</hi> Braintree 28</item>
+                  <item>Stephen Knight <hi>at</hi> Maldon 28</item>
+                  <item>John Lawrence <hi>at</hi> Colcheſter 29</item>
+                  <item>
+                     <hi>Biſhop</hi> Farrer <hi>in</hi> Wales 30</item>
+                  <item>Rawlins White <hi>at</hi> Cardiff <hi>in</hi> Wales.</item>
+                  <item>George Marſh <hi>at</hi> Weſtcheſter 24</item>
+                  <item>William, Flower <hi>at</hi> Weſtminſter 24</item>
+                  <item>John Cardmaker <hi>Smithfield.</hi>
+                  </item>
+                  <item>John Warne <hi>Smithfield.</hi>
+                  </item>
+                  <item>John Simpſon <hi>at</hi> Rochford.</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>June, 1555.</head>
+               <list>
+                  <item>John Ardeley <hi>at</hi> Railey 10</item>
+                  <item>John Tody</item>
+                  <item>Thomas Hauks <hi>at</hi> Coxhall 10</item>
+                  <item>Thomas Wats <hi>at</hi> Chelmsford 10</item>
+                  <item>Nichol. Chamberlayn <hi>at</hi> Colcheſter 14</item>
+                  <item>Thomas Oſmond <hi>at</hi> Manningtree 15</item>
+                  <item>John Bradford <hi>London.</hi>
+                  </item>
+                  <item>John Leafe <hi>London.</hi>
+                  </item>
+                  <item>John Wing <hi>died in</hi> Maidſtone <hi>Gaol.</hi>
+                  </item>
+                  <item>Willam Bamford <hi>at</hi> Harwich 15</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>July, 1555.</head>
+               <list>
+                  <item>John Blande <hi>Canterbury</hi> 12</item>
+                  <item>Nich. Shetterden <hi>Canterbury</hi> 12</item>
+                  <item>John Franckiſh, <hi>Canterbury</hi> 12</item>
+                  <item>Humph. Middleton <hi>Canterbury</hi> 12</item>
+                  <item>Nicholas Hall <hi>Dartford</hi> 19</item>
+                  <item>Chriſtopher Wade <hi>Dartford</hi> 19</item>
+                  <item>Margery Polly <hi>at</hi> Tunbridg</item>
+                  <item>Dirick Carver <hi>at</hi> Lewes 22</item>
+                  <item>John Launder <hi>at</hi> Lewes 22</item>
+                  <item>Thomas Jueſon <hi>at</hi> Chicheſter.</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>Auguſt, 1555.</head>
+               <list>
+                  <item>
+                     <hi>Mr.</hi> Denly <hi>at</hi> Uxbridg 8</item>
+                  <item>Patriarch Packingham <hi>at</hi> Uxbridg 28</item>
+                  <item>John Newman <hi>at</hi> Saffron-Walden 31</item>
+                  <item>Richard Hook <hi>at</hi> Chicheſter.</item>
+                  <item>William Coker <hi>at</hi> Canterbury.</item>
+                  <item>Henry Lawrence <hi>at</hi> Canterbury.</item>
+                  <item>William Hopper <hi>at</hi> Canterbury.</item>
+                  <item>Richard Collier <hi>at</hi> Canterbury.</item>
+                  <item>Robert Wright <hi>at</hi> Canterbury.</item>
+                  <item>William Steare <hi>at</hi> Canterbury.</item>
+                  <item>George Tankerfield <hi>St.</hi> Albans 26</item>
+                  <item>William Haile <hi>at</hi> Barnet.</item>
+                  <item>Thomas, Fuſt <hi>at</hi> Ware.</item>
+                  <item>Stephen Harwood <hi>at</hi> Stratford.</item>
+                  <item>George King <hi>died in Priſon.</hi>
+                  </item>
+                  <item>Tho. I eyes <hi>died in Priſon.</hi>
+                  </item>
+                  <item>John Wade <hi>died in Priſon.</hi>
+                  </item>
+                  <item>Robert Samuel <hi>at</hi> Ipſwich.</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>September, 1555.</head>
+               <list>
+                  <item>William Allen <hi>at</hi> Walſingham.</item>
+                  <item>Roger Coo at <hi>Yexford.</hi>
+                  </item>
+                  <item>Thomas Cob <hi>at</hi> Chetford.</item>
+                  <item>George Catmer <hi>at</hi> Canterbury.</item>
+                  <item>Robert Streater <hi>at</hi> Canterbury.</item>
+                  <item>Anthony Burward <hi>at</hi> Canterbury.</item>
+                  <item>George Brodbridg <hi>at</hi> Canterbury.</item>
+                  <item>James Tutty <hi>at</hi> Canterbury.</item>
+                  <item>Thomas Hayward</item>
+                  <item>John Goreway <hi>at</hi> Litchfield.</item>
+                  <item>Robert Glover <hi>at</hi> Coventry.</item>
+                  <item>Cornelius Bongey <hi>at</hi> Coventry.</item>
+                  <item>William Walſey <hi>at</hi> Sley.</item>
+                  <item>Robert Pigot <hi>at</hi> Sley.</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>October, 1555.</head>
+               <list>
+                  <item>
+                     <hi>Will. Glover</hi> after their deaths con<g ref="char:EOLhyphen"/>demned for Hereticks.</item>
+                  <item>
+                     <hi>John Glover</hi> after their deaths con<g ref="char:EOLhyphen"/>demned for Hereticks.</item>
+                  <item>Biſhop <hi>Ridley</hi> at <hi>Oxford.</hi>
+                  </item>
+                  <item>Mr. <hi>Latimer</hi> at <hi>Oxford.</hi>
+                  </item>
+                  <item>
+                     <hi>George Roper</hi> at <hi>Canterbury.</hi>
+                  </item>
+                  <item>
+                     <hi>John Web</hi> at <hi>Canterbury.</hi>
+                  </item>
+                  <item>
+                     <hi>Gregory Park</hi> at <hi>Canterbury.</hi>
+                  </item>
+                  <item>
+                     <hi>VVilliam VViſeman</hi> died in Priſon,</item>
+                  <item>
+                     <hi>James Gore</hi> died in Priſon: both in (<hi>Colcheſter.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>December 1555.</head>
+               <list>
+                  <item>
+                     <hi>Mr.</hi> John Philpot.</item>
+                  <item>Tho VVhittle, Bartlet Green, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+                  <item>John Tueſon, John VVent, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+                  <item>Tho. Brown, Iſabel Pawſter, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+                  <item>Joan VVarren, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>January, 1555.</head>
+               <list>
+                  <item>John Iomas, Ann Albright, <hi>Canter<g ref="char:EOLhyphen"/>bury.</hi>
+                  </item>
+                  <item>Agnes Snothe, Joan Catmer, <hi>Canter<g ref="char:EOLhyphen"/>bury.</hi>
+                  </item>
+                  <item>Joan Sole, <hi>Canter<g ref="char:EOLhyphen"/>bury.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>March, <hi>Anno</hi> 1556.</head>
+               <list>
+                  <item>
+                     <hi>Archbiſhop</hi> Cranmer <hi>at</hi> Oxford.</item>
+                  <item>Agnes Potten <hi>Ipſwich.</hi>
+                  </item>
+                  <item>Joan Trunchfield <hi>Ipſwich.</hi>
+                  </item>
+                  <item>John Spicer <hi>Salisbury.</hi>
+                  </item>
+                  <item>William Coberly <hi>Salisbury.</hi>
+                  </item>
+                  <item>John Maundrell <hi>Salisbury.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>April, 1556.</head>
+               <list>
+                  <item>Rob. Drakes, W. Timms, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+                  <item>Rich. Spurge, Tho.Spurge, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+                  <item>John Cavell, George Ambroſe, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+                  <item>John Harpoole <hi>Rocheſter.</hi>
+                  </item>
+                  <item>Joan Beach <hi>Rocheſter.</hi>
+                  </item>
+                  <item>John Hulliar <hi>at</hi> Cambridg.</item>
+                  <item>Chriſtoher Lyſter <hi>Colcheſter.</hi>
+                  </item>
+                  <item>John Mace <hi>Colcheſter.</hi>
+                  </item>
+                  <item>John Spencer <hi>Colcheſter.</hi>
+                  </item>
+                  <item>Simon Joyne <hi>Colcheſter.</hi>
+                  </item>
+                  <item>Richard Nichols <hi>Colcheſter.</hi>
+                  </item>
+                  <item>John Hammond <hi>Colcheſter.</hi>
+                  </item>
+                  <item>Hugh Laverock <hi>Stratford.</hi>
+                  </item>
+                  <item>John Aprice <hi>Stratford.</hi>
+                  </item>
+                  <item>Katharine Hutt <hi>Smithfield.</hi>
+                  </item>
+                  <item>Joan Hernes <hi>Smithfield.</hi>
+                  </item>
+                  <item>Eliz. Thackwell <hi>Smithfield.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>May, 1556.</head>
+               <list>
+                  <item>Tho. Drowry <hi>Gloceſter.</hi>
+                  </item>
+                  <item>Tho. Crocker <hi>Gloceſter.</hi>
+                  </item>
+                  <item>John Deny <hi>at</hi> Beckles <hi>in Suffolk.</hi>
+                  </item>
+                  <item>Edmund Pool <hi>at</hi> Beckles <hi>in Suffolk.</hi>
+                  </item>
+                  <item>William Slech <hi>died in the</hi> Kings Bench.</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>June, 1556.</head>
+               <list>
+                  <item>Tho. Harland, John Oſmond, <hi>Lewes.</hi>
+                  </item>
+                  <item>Tho. Avington, Tho. Read, <hi>Lewes.</hi>
+                  </item>
+                  <item>Tho. Wood <hi>at</hi> Lewes.</item>
+                  <item>Tho. Mills <hi>at</hi> Lewes.</item>
+                  <item>William Adherall <hi>died in the</hi> Kings Bench.</item>
+                  <item>John Clement <hi>died in the</hi> Kings Bench.</item>
+                  <item>
+                     <hi>A Merchants Servant at</hi> Leiceſter.</item>
+                  <item>Henry Adlington <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>Lawrence Paviam <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>Henry Wye <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>William Hallowell <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>Tho. Bowyer <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>George Searles <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>Edmund Hurſt <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>Lion. Cauch <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>Ralph Jackson <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>John Derifall <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>John Routh. <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>Eliz. Pepper <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>Agnes George <hi>Stratford-Bow.</hi>
+                  </item>
+                  <item>John Parrat <hi>died in the</hi> Kings-Bench.</item>
+                  <item>Martin Hunt <hi>died in the</hi> Kings-Bench.</item>
+                  <item>John Norris <hi>died in the</hi> Kings-Bench.</item>
+                  <item>Roger Barnard <hi>Edmundsbury.</hi>
+                  </item>
+                  <item>Adam Foſter <hi>Edmundsbury.</hi>
+                  </item>
+                  <item>Robert Lawſon <hi>Edmundsbury.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>July, 1556.</head>
+               <list>
+                  <item>John Careleſs <hi>died in the</hi> Kings Bench.</item>
+                  <item>Julius Palmer <hi>Newbury.</hi>
+                  </item>
+                  <item>John Gwin <hi>Newbury.</hi>
+                  </item>
+                  <item>Tho. Askin <hi>Newbury.</hi>
+                  </item>
+                  <item>Katharine Cauches <hi>Iſle of</hi> Gernſey.</item>
+                  <item>Guillemine Gilbert <hi>Iſle of</hi> Gernſey.</item>
+                  <item>Perrotine Maſſey, <hi>and her Infant, Iſle of</hi> Gernſey.</item>
+                  <item>Tho Dungate <hi>Greenſted,</hi> Suſſex.</item>
+                  <item>John Foreman <hi>Greenſted,</hi> Suſſex.</item>
+                  <item>Mother Free <hi>Greenſted,</hi> Suſſex.</item>
+                  <item>Tho. Moor <hi>at</hi> Leiceſter.</item>
+                  <item>Joan Waſte <hi>at</hi> Darby.</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>Auguſt, 1556.</head>
+               <list>
+                  <item>Edward Sharp <hi>at</hi> Briſtow.</item>
+                  <item>John Hart <hi>Mayfield.</hi>
+                  </item>
+                  <item>Tho. Ravenſdale, <hi>and two men, Mayfield.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>September, 1556.</head>
+               <list>
+                  <item>A young man at <hi>Briſtow</hi>
+                  </item>
+                  <item>
+                     <hi>John Horne</hi> at <hi>Wooten <g ref="char:V">Ʋ</g>nderedge.</hi>
+                  </item>
+                  <item>A woman at <hi>Wooten <g ref="char:V">Ʋ</g>nderedge.</hi>
+                  </item>
+                  <item>
+                     <hi>Joan Dangerfield,</hi> burned, and her Child famiſhed.</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>October, 1556.</head>
+               <list>
+                  <item>
+                     <hi>A Shoomaker in</hi> Northampton.</item>
+                  <item>
+                     <hi>Three died in</hi> Chicheſter <hi>Caſtle.</hi>
+                  </item>
+                  <item>John Hook <hi>at</hi> Cheſter.</item>
+                  <item>John clark <hi>died in Priſon, in</hi> Canterbury.</item>
+                  <item>Dunſtan Chittenden <hi>died in Priſon, in</hi> Canterbury.</item>
+                  <item>William Foſter <hi>died in Priſon, in</hi> Canterbury.</item>
+                  <item>Alice Poskins <hi>died in Priſon, in</hi> Canterbury.</item>
+                  <item>John Archer <hi>died in Priſon, in</hi> Canterbury.</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>January, <hi>Anno</hi> 1556.</head>
+               <list>
+                  <item>Will. Waterer, Stephen Kemp, <hi>burn'd at</hi> Can<g ref="char:EOLhyphen"/>terbury.</item>
+                  <item>William Hay, Tho. Hudſon, <hi>burn'd at</hi> Can<g ref="char:EOLhyphen"/>terbury.</item>
+                  <item>Will. Lowick, Will. Prowting, <hi>burn'd at</hi> Can<g ref="char:EOLhyphen"/>terbury.</item>
+                  <item>Tho. Stephens <hi>Wye.</hi>
+                  </item>
+                  <item>John Philpot <hi>Wye.</hi>
+                  </item>
+                  <item>Nicholas Finall <hi>Aſhford.</hi>
+                  </item>
+                  <item>Mathew Bradbridg <hi>Aſhford.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>April, <hi>Anno</hi> 1557.</head>
+               <list>
+                  <item>Tho. Loſeby, Hen. Ramſey, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+                  <item>Th. Thirtell, Margery Hide, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+                  <item>Agnes Stanley, <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>May, 1557.</head>
+               <list>
+                  <item>William Morant, <hi>in St.</hi> George's <hi>fields.</hi>
+                  </item>
+                  <item>Steph. Gratwick, <hi>in St.</hi> George's <hi>fields.</hi>
+                  </item>
+                  <item>
+                     <hi>with one</hi> Ringe <hi>in St.</hi> George's <hi>fields.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>June, 1557.</head>
+               <list>
+                  <item>Joan Bradbridg <hi>Maidſtone.</hi>
+                  </item>
+                  <item>Walter Appleby, <hi>Maidſtone.</hi>
+                  </item>
+                  <item>Petronill <hi>his Wife Maidſtone.</hi>
+                  </item>
+                  <item>Edmund Allen <hi>Maidſtone.</hi>
+                  </item>
+                  <item>Katharine <hi>his Wife Maidſtone.</hi>
+                  </item>
+                  <item>Joan Mannings <hi>Maidſtone.</hi>
+                  </item>
+                  <item>Eliz. <hi>a blind Maid Miadſtone</hi>
+                  </item>
+                  <item>John Fiſhcock <hi>theſe Seven at</hi> Canterbury.</item>
+                  <item>Nic. Pardue <hi>theſe Seven at</hi> Canterbury.</item>
+                  <item>Nic. White <hi>theſe Seven at</hi> Canterbury.</item>
+                  <item>Barbara Final <hi>theſe Seven at</hi> Canterbury.</item>
+                  <item>Bradbridge's <hi>Widow theſe Seven at</hi> Canterbury.</item>
+                  <item>Wilſon's <hi>Wife theſe Seven at</hi> Canterbury.</item>
+                  <item>Benden's <hi>Wife theſe Seven at</hi> Canterbury.</item>
+                  <item>Richard Woodman <hi>Lewes.</hi>
+                  </item>
+                  <item>George Stevens <hi>Lewes.</hi>
+                  </item>
+                  <item>William Mainard <hi>Lewes.</hi>
+                  </item>
+                  <item>Alex. Hoſeman's <hi>Servant Lewes.</hi>
+                  </item>
+                  <item>Tomaſin Awood, Mainards (Maid <hi>Lewes.</hi>
+                  </item>
+                  <item>Margery Morrice <hi>Lewes.</hi>
+                  </item>
+                  <item>James Morrice <hi>Lewes.</hi>
+                  </item>
+                  <item>Denis Burges <hi>Lewes.</hi>
+                  </item>
+                  <item>Aſhden's <hi>Wife Lewes.</hi>
+                  </item>
+                  <item>Groves <hi>Wife Lewes.</hi>
+                  </item>
+                  <item>Richard Luſh <hi>at</hi> Bath <hi>and</hi> Wells</item>
+                  <item>
+                     <hi>One</hi> Ambroſe <hi>died in Priſon at</hi> Maid<g ref="char:EOLhyphen"/>ſtone.</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>July, 1557.</head>
+               <list>
+                  <item>Simon Miller <hi>Norwich.</hi>
+                  </item>
+                  <item>Eliz. Cooper <hi>Norwich.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>Auguſt, 1557.</head>
+               <list>
+                  <item>Will. Bongeor, Will. Purtas, <hi>Colche<g ref="char:EOLhyphen"/>ſter.</hi>
+                  </item>
+                  <item>Tho Benold, Agn. Silverſide, <hi>Colche<g ref="char:EOLhyphen"/>ſter.</hi>
+                  </item>
+                  <item>Helene Ewring, Eliz. Fowlks, <hi>Colche<g ref="char:EOLhyphen"/>ſter.</hi>
+                  </item>
+                  <item>Will. Munt, Alice <hi>his Wife, <hi>Colche<g ref="char:EOLhyphen"/>ſter.</hi>
+                     </hi>
+                  </item>
+                  <item>Roſe Allen, John Johnſon, <hi>Colche<g ref="char:EOLhyphen"/>ſter.</hi>
+                  </item>
+                  <item>John Thurſton <hi>died in Priſon.</hi>
+                  </item>
+                  <item>George Eagles, Richard Craſhford.</item>
+                  <item>
+                     <hi>One</hi> Frier <hi>Rocheſter.</hi>
+                  </item>
+                  <item>George Eagles <hi>Siſter Rocheſter.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>September, 1557.</head>
+               <list>
+                  <item>Joice Laves <hi>at</hi> Lichfield.</item>
+                  <item>Ralph Allerton <hi>Iſlington.</hi>
+                  </item>
+                  <item>James Austoo <hi>Iſlington.</hi>
+                  </item>
+                  <item>Margery Auſtoo <hi>Iſlington.</hi>
+                  </item>
+                  <item>Richard Roth <hi>Iſlington.</hi>
+                  </item>
+                  <item>Margaret Thurston <hi>Colcheſter.</hi>
+                  </item>
+                  <item>Agnes Bongeor <hi>Colcheſter.</hi>
+                  </item>
+                  <item>John Rurd <hi>at</hi> Northampton.</item>
+                  <item>John Noyſe <hi>at</hi> Laxfield.</item>
+                  <item>Cicely Ormes at Norwich.</item>
+                  <item>
+                     <hi>Perſecution in the Dioceſs of</hi> Chi<g ref="char:EOLhyphen"/>chester <hi>in Queen</hi> Maries <hi>days.</hi>
+                  </item>
+                  <item>John Foreman <hi>at</hi> Eaſt-Grimſtead.</item>
+                  <item>John Warner <hi>at</hi> Berne.</item>
+                  <item>Chriſtian Grover <hi>at</hi> Lewes.</item>
+                  <item>Tho. Athoth.</item>
+                  <item>Tho Avington <hi>at</hi> Erdinglie.</item>
+                  <item>Denis Burges <hi>at</hi> Buxted.</item>
+                  <item>Tho. Ravenſdale <hi>at</hi> Rye.</item>
+                  <item>John Milles <hi>at</hi> Hellingligh.</item>
+                  <item>Nic. Holden <hi>at</hi> Withiam.</item>
+                  <item>John Hart <hi>at</hi> Withiam.</item>
+                  <item>Margery Morrice <hi>at</hi> Hothfield.</item>
+                  <item>Ann Try <hi>at</hi> Eaſt Greenſtead.</item>
+                  <item>John Oſeward <hi>at</hi> Woodmancote.</item>
+                  <item>James Morrice <hi>at</hi> Hothfield.</item>
+                  <item>Tho. Harland <hi>at</hi> Woodmancote.</item>
+                  <item>Tho. Dowgat <hi>at</hi> Eaſtgreenſtead.</item>
+                  <item>Tho. Spurdance <hi>at</hi> Bury <hi>in</hi> Suffolk,</item>
+               </list>
+            </div>
+            <div type="month">
+               <head>November, 1557.</head>
+               <list>
+                  <item>John Hallingdale <hi>Smithfield.</hi>
+                  </item>
+                  <item>William Sparrow <hi>Smithfield.</hi>
+                  </item>
+                  <item>Richard Gibſon <hi>Smithfield.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>December, 1557.</head>
+               <list>
+                  <item>John Rough <hi>Smithfield.</hi>
+                  </item>
+                  <item>Margaret Mearing <hi>Smithfield.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>March, 1558.</head>
+               <list>
+                  <item>Cutbert Simpſon <hi>Smithfield.</hi>
+                  </item>
+                  <item>Hugh Fox <hi>Smithfield.</hi>
+                  </item>
+                  <item>John Beaveniſh <hi>Smithfield.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>April, 1558.</head>
+               <list>
+                  <item>William Nicol <hi>at</hi> Hereford.</item>
+                  <item>William Seaman Carman <hi>Norwich.</hi>
+                  </item>
+                  <item>Thomas Hudſon <hi>Norwich.</hi>
+                  </item>
+                  <item>
+                     <hi>Muther</hi> Benet <hi>a Confeſſor.</hi>
+                  </item>
+                  <item>William Harris <hi>Colcheſter.</hi>
+                  </item>
+                  <item>Richard Day <hi>Colcheſter.</hi>
+                  </item>
+                  <item>Chriſtian George <hi>Colcheſter.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>May, 1558.</head>
+               <list>
+                  <item>Henry Pond <hi>Smithfield.</hi>
+                  </item>
+                  <item>Robert Southam <hi>Smithfield.</hi>
+                  </item>
+                  <item>John Floyd <hi>Smithfield.</hi>
+                  </item>
+                  <item>Roger Holland <hi>Smithfield.</hi>
+                  </item>
+                  <item>Raynold Eaſterland <hi>Smithfield.</hi>
+                  </item>
+                  <item>Mathew Ricarty <hi>Smithfield.</hi>
+                  </item>
+                  <item>John Holyday <hi>Smithfield.</hi>
+                  </item>
+                  <item>Robert Milles <hi>Brainſord.</hi>
+                  </item>
+                  <item>Robert Dimus <hi>Brainſord.</hi>
+                  </item>
+                  <item>John Slade <hi>Brainſord.</hi>
+                  </item>
+                  <item>Stephen Cotton <hi>Brainſord.</hi>
+                  </item>
+                  <item>Stephen Wright <hi>Brainſord.</hi>
+                  </item>
+                  <item>William Pikes <hi>or</hi> Pickers <hi>Brainſord.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>July, 1558.</head>
+               <list>
+                  <item>Tho. Hinſhaw <hi>whipt at</hi> Fullam.</item>
+                  <item>John Milles <hi>whipt at</hi> Fullam.</item>
+                  <item>Richard Yoman <hi>at</hi> Norwich.</item>
+                  <item>John Alcot <hi>died in</hi> Newgate.</item>
+                  <item>Tho. Benbridg <hi>in the Dioceſs of</hi> Win<g ref="char:EOLhyphen"/>cheſter.</item>
+                  <item>John Cook <hi>St. Edmundsbury.</hi>
+                  </item>
+                  <item>Alexander Lane <hi>St. Edmundsbury.</hi>
+                  </item>
+                  <item>Robert Milles <hi>St. Edmundsbury.</hi>
+                  </item>
+                  <item>James Aſhley <hi>St. Edmundsbury.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>Auguſt, 1558.</head>
+               <list>
+                  <item>Richard Sharp, <hi>Briſtow.</hi>
+                  </item>
+                  <item>Tho. Benion, <hi>Briſtow.</hi>
+                  </item>
+                  <item>Tho. Hale, <hi>Briſtow.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="month">
+               <head>November, 1558.</head>
+               <list>
+                  <item>Alexander-Couch <hi>Ipſwich.</hi>
+                  </item>
+                  <item>Alice Priver <hi>Ipſwich.</hi>
+                  </item>
+                  <item>Philip Humphrey <hi>Buty.</hi>
+                  </item>
+                  <item>Henry David <hi>Buty.</hi>
+                  </item>
+                  <item>John David <hi>Buty.</hi>
+                  </item>
+                  <item>
+                     <hi>A Woman at</hi> Exeter.</item>
+                  <item>John Comford <hi>Canterbury.</hi>
+                  </item>
+                  <item>John Herſt <hi>Canterbury.</hi>
+                  </item>
+                  <item>Tinley <hi>an aged Woman Canterbury.</hi>
+                  </item>
+                  <item>Chriſtopher Brown <hi>Canterbury.</hi>
+                  </item>
+                  <item>Alice Snoth. <hi>Canterbury.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year M DC LXXIX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
